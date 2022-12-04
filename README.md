@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently pursuing **B.Tech in Computer Science Engineering** from **PARUL University ,Vadodara**
 
-- 🌱 I’m currently learning **Java **
+- 🌱 I’m currently learning **Mern**
 
 - 📫 How to reach me **harshitprasad1906@gmail.com**
 
